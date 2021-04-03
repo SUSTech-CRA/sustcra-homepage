@@ -45,7 +45,9 @@ keywords : [
 
 ## 如何体验
 
-由于软件的限制，CRA-ShareLaTeX暂时无法开放自助注册。**如果您想体验CRA-ShareLaTeX，请您发送一封主题为“sharelatex测试”的邮件至[service@cra.moe](mailto:service@cra.moe)。我们将会在第一时间给您发送开通的确认邮件。**
+~~由于软件的限制，CRA-ShareLaTeX暂时无法开放自助注册。~~ 
+
+**CRA-ShareLaTeX目前允许邮箱后缀为`edu.cn`的用户[自助注册](https://sharelatex.cra.moe/register)，如果您的邮箱域名为其他后缀，请您发送一封主题为“sharelatex测试”的邮件至[service@cra.moe](mailto:service@cra.moe)。我们将会在第一时间给您发送开通的确认邮件。**(如需了解如何修改前端以启用自助注册，请参考[这篇博客](https://sparktour.me/2021/04/02/self-host-overleaf/))
 
 如果您对这项服务有任何疑问或是需要帮助，也欢迎您发邮件至[service@cra.moe](mailto:service@cra.moe)。
 
@@ -79,7 +81,9 @@ CRA-ShareLaTeX also supports unlimited number of collaborators and unlimited tim
 
 ## How to use?
 
-Due to software limitations, CRA-ShareLaTeX is currently unavailable for self-registration. **If you would like to try CRA-ShareLaTeX, please send an email with the subject "sharelatex test" to [service@cra.moe](mailto:service@cra.moe). We will send you a confirmation email as soon as possible. **
+~~Due to software limitations, CRA-ShareLaTeX is currently unavailable for self-registration.~~ 
+
+**CRA-ShareLaTeX currently allows users who has an email ends with `edu.cn` to self-registration. If you would like to try CRA-ShareLaTeX with other email address, please send an email with the subject "sharelatex test" to [service@cra.moe](mailto:service@cra.moe). We will send you a confirmation email as soon as possible. **
 
 If you have any questions about this service or need assistance, you are also welcome to send an email to [service@cra.moe](mailto:service@cra.moe).
 
