@@ -3,7 +3,7 @@ title: "CRATalk #3 科学计算入门之初识Linux"
 author: "CRA"  
 description : "CRATalk #3 Introduction to Scientific Computation (Getting Started with Linux)"    
 date: 2021-05-07T12:00:00.00+08:00
-lastmod: 2021-05-07T12:00:00.00+08:00
+lastmod: 2021-05-07T12:50:00.00+08:00
 slug: "cratalk-3-0-introduction-to-scientific-computation-linux"
 image: "cover.jpg"
 tags : [                                    
