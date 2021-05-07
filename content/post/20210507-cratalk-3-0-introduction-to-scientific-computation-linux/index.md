@@ -34,7 +34,7 @@ keywords : [
 
 ## 工作坊信息
 
-- 时间：2021年5月10日 15:00-17:00 
+- 时间：2021年5月9日 15:00-17:00 
 
 - 地点：第二教学楼 205 
 
@@ -57,7 +57,7 @@ During the seminar, we will prepare a Linux operating environment for you, and s
 
 ## Workshop Info
 
-- Time: 2021.5.10 15:00-17:00
+- Time: 2021.5.9 15:00-17:00
 
 - Location: Teaching Building 2-205
 
