@@ -4,7 +4,7 @@ author: "CRA"
 description : "CRA Holds Introduction to Linux Lecture"    
 date: 2021-05-10T15:20:00.00+08:00
 lastmod: 2021-05-10T15:20:00.00+08:00
-slug: "cratalk-3-0-introduction-to-scientific-computation-linux"
+slug: "cratalk-3-0-introduction-to-scientific-computation-linux-pr"
 image: "cover.jpg"
 tags : [                                    
 "events",
@@ -43,6 +43,3 @@ keywords : [
 ![揭牌合影](./licensing.jpg)
 
 此次活动只是科学计算系列基础课程的第一课，之后将会有进一步的课程举办，欢迎大家前来参加！
-
-
-
