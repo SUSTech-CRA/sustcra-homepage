@@ -35,47 +35,47 @@ keywords : [
 1. 使用此链接： [https://cas.sustech.edu.cn/cas/login](https://cas.sustech.edu.cn/cas/login) 登入CAS控制面板。
 2. 登入后，点击左侧的菜单选项，选择`Sustech Email`菜单。
 
-![cas-login](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/cas-login.png)
+![cas-login](cas-login.png)
 
 3. 检查自己是否绑定了邮箱，如果没有，请绑定自己的南科大邮箱（学生请绑定数字为用户名的邮箱）。
 
-![check-cas-email](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/check-cas-email.png)
+![check-cas-email](check-cas-email.png)
 
 ### 登入CRA SSO
 
 打开 [https://sso.cra.ac.cn/realms/cra-service-realm/account/](https://sso.cra.ac.cn/realms/cra-service-realm/account/) 点击右上角的`Sign in`。
 
-![register](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/register.png)
+![register](register.png)
 
 点击右下角的`via SUSTech CAS` :
 
-![sign-in-via](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/sign-in-via.png)
+![sign-in-via](sign-in-via.png)
 
 随后用户会被跳转至南科大CAS进行认证。
 
 如果信息不完整，CRA SSO将会返回一个完善信息的页面，请在此页面按照要求完善自己的姓名和邮箱：
 
-![fill-information](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/fill-information.png)
+![fill-information](fill-information.png)
 
 如果信息完整，用户将会直接进入CRA SSO的个人主页，请在此主页内完善自己的姓名等信息并保存：
 
-![user-info](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/user-info.png)
+![user-info](user-info.png)
 
 ## 已注册过CRA SSO的用户，需要进行账户绑定
 
 使用此链接进入控制面板： [https://sso.cra.ac.cn/realms/cra-service-realm/account/#/security/linked-accounts](https://sso.cra.ac.cn/realms/cra-service-realm/account/#/security/linked-accounts) ， 并点击`Link account` :
 
-![link-account](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/link-account.png)
+![link-account](link-account.png)
 
 检查账户是否已经正确连接：
 
-![linked-account](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/linked-account.png)
+![linked-account](linked-account.png)
 
 ## 修改密码
 
 如果此前未有注册过CRA SSO，在第一次通过CRA SSO登录时，系统会为您生成一个随机密码，您可以在控制面板的`Account Security`（[https://sso.cra.ac.cn/realms/cra-service-realm/account/#/security/signingin](https://sso.cra.ac.cn/realms/cra-service-realm/account/#/security/signingin)）里更改：
 
-![update-pw](/Users/cyf/Documents/GitHub/cra/sustcra-com/content/post/20220608-sharelatex-with-sso-oauth/update-pw.png)
+![update-pw](update-pw.png)
 
 # 登录教程
 
