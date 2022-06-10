@@ -59,7 +59,7 @@ keywords : [
 
 如果信息完整，用户将会直接进入CRA SSO的个人主页，请在此主页内完善自己的姓名等信息并保存：
 
-![user-info](./user-info.jpg)
+![user-info](user-info.jpg)
 
 ## 已注册过CRA SSO的用户，需要进行账户绑定
 
