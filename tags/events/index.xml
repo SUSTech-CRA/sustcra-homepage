@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>events on CRA@SUSTech</title><link>https://blog.sustcra.com/tags/events/</link><description>Recent content in events on CRA@SUSTech</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 09 Jun 2021 15:00:00 +0800</lastBuildDate><atom:link href="https://blog.sustcra.com/tags/events/index.xml" rel="self" type="application/rss+xml"/><item><title>CTF校队宣讲会</title><link>https://blog.sustcra.com/p/sustech-ctf-team/</link><pubDate>Wed, 09 Jun 2021 15:00:00 +0800</pubDate><guid>https://blog.sustcra.com/p/sustech-ctf-team/</guid><description>&lt;img src="https://blog.sustcra.com/p/sustech-ctf-team/cover.jpg" alt="Featured image of post CTF校队宣讲会" />&lt;h1 id="ctf校队宣讲会">CTF校队宣讲会&lt;/h1>
+&lt;p>CTF，Capture the Flag，一类黑客技术竞赛。CTF校队正是挑战黑客技术，勇往直前的一支竞赛队伍。&lt;/p>
+&lt;p>揭开黑客竞赛的神秘面纱，我们将在**&lt;u>6月13日（星期日），于一教303教室&lt;/u>**开展CTF校队宣讲活动，招收对CTF感兴趣的同学们加入校队，向大家介绍CTF活动，介绍校队的相关工作。&lt;/p>
+&lt;p>同时，&lt;a class="link" href="https://fengweiz.github.io/" target="_blank" rel="noopener"
+>张锋巍教授&lt;/a>的实验室成员也会在现场支持，计算机安全、黑客竞赛、CTF校队，欢迎大家到场参与！&lt;/p>
+&lt;h1 id="ctf-team-seminar">CTF Team Seminar&lt;/h1>
+&lt;p>CTF, Capture the Flag, is a hacking competition, and the CTF Varsity Team is a team that challenges hacking technology and goes forward.&lt;/p>
+&lt;p>To unveil the mystery of the hacking competition, we will hold a CTF Varsity presentation on &lt;u>&lt;strong>June 13 (Sunday) in Classroom 303 of the Lecture Hall 1&lt;/strong>&lt;/u> to recruit students who are interested in CTF to join the team, introduce CTF activities and the work of the team.&lt;/p>
+&lt;p>Also, members from &lt;a class="link" href="https://fengweiz.github.io/" target="_blank" rel="noopener"
+>Prof. Fengwei Zhang&amp;rsquo;s&lt;/a> lab will be there to support, computer security, hacking competitions, CTF Varsity, and everyone is welcome to be there to participate!&lt;/p></description></item><item><title>计算机研究协会成功举办「Linux入门」讲座</title><link>https://blog.sustcra.com/p/cratalk-3-0-introduction-to-scientific-computation-linux-pr/</link><pubDate>Mon, 10 May 2021 15:20:00 +0800</pubDate><guid>https://blog.sustcra.com/p/cratalk-3-0-introduction-to-scientific-computation-linux-pr/</guid><description>&lt;img src="https://blog.sustcra.com/p/cratalk-3-0-introduction-to-scientific-computation-linux-pr/cover.jpg" alt="Featured image of post 计算机研究协会成功举办「Linux入门」讲座" />&lt;h1 id="计算机研究协会成功举办linux入门讲座">计算机研究协会成功举办「Linux入门」讲座&lt;/h1>
+&lt;p>2021 年 5 月 9 日下午，南方科技大学计算机研究协会与超算俱乐部，科学与工程计算中心合作，在二教 2-205 教室举办了科学计算系列基础课程的第一课——「Linux入门」Workshop。&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/course1.jpg"
+loading="lazy"
+alt="课程现场"
+>&lt;/p>
+&lt;p>在持续两小时的课程中，主讲人关浩同学通过预先撰写的网页文档，向参加workshop的同学讲解了Linux的历史与发展，终端、桌面环境的概念，目录权限的相关知识和编译安装软件的方式等内容。同时，科学与工程计算中心的汤鸿老师，计算机研究协会的樊青远，张淮化清等同学也为在课程中为同学进行答疑，及时解决同学们在学习中遇到的问题。&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/course2.jpg"
+loading="lazy"
+alt="课程现场"
+>&lt;/p>
+&lt;p>同学们借助此机会认识了 Linux 的基本特点，也为大家埋下了中国开源社区的基础。&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/course3.jpg"
+loading="lazy"
+alt="TUNA同学体验机房设施"
+>&lt;/p>
+&lt;p>在活动结束后，&lt;a class="link" href="https://tuna.moe/" target="_blank" rel="noopener"
+>清华大学TUNA协会&lt;/a>的陈晟祺同学代表TUNA协会来到科学与工程计算中心机房，为「清华大学TUNA协会驻南方科技大学联络代表处」进行揭牌。&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/plate.jpg"
+loading="lazy"
+alt="「清华大学TUNA协会驻南方科技大学联络代表处」牌"
+>&lt;/p>
+&lt;p>哈利同学来到位于慧园的南方科技大学科学与工程计算中心机房，询问数据存储规模、服务器性能等情况。&lt;del>他随即从服务器的RAID阵列中抽出一块硬盘，仔细阅读上面的文字说明&lt;/del>。接着，他询问计算机研究协会的同学，目前发展数据中心遇到哪些困难。计协的同学说，由于慧园聚集了众多计算集群，而网络带宽和电力供应均十分有限，导致服务级别协议较低，长此下去容易抵消这里发展高性能科学计算和开源软件镜像站的优势。哈利说，单台节点服务级别协议较低的问题在包括清华大学在内的每一所世界一流大学中均有存在。但通过巧妙运用热备节点和负载均衡设备，将能在很大程度上减轻节点故障带来的影响。他叮嘱计算机研究协会要加大新型开源软件镜像的支持力度，增加传输通道、提升运行速率、降低运营成本，为华南地区的开源事业持续赋能。&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/licensing.jpg"
+loading="lazy"
+alt="揭牌合影"
+>&lt;/p>
+&lt;p>此次活动只是科学计算系列基础课程的第一课，之后将会有进一步的课程举办，欢迎大家前来参加！&lt;/p></description></item><item><title>CRATalk #3 科学计算入门之初识Linux</title><link>https://blog.sustcra.com/p/cratalk-3-0-introduction-to-scientific-computation-linux/</link><pubDate>Fri, 07 May 2021 12:00:00 +0800</pubDate><guid>https://blog.sustcra.com/p/cratalk-3-0-introduction-to-scientific-computation-linux/</guid><description>&lt;img src="https://blog.sustcra.com/p/cratalk-3-0-introduction-to-scientific-computation-linux/cover.jpg" alt="Featured image of post CRATalk #3 科学计算入门之初识Linux" />&lt;h1 id="cratalk-3-0-科学计算入门之初识linux">CRATalk #3-0 科学计算入门之初识Linux&lt;/h1>
+&lt;p>从本周日开始，计算机研究协会与超算俱乐部将联合科学与工程计算中心推出一系列科学计算基础工作坊，帮助大家更好的入门科学计算，以及探索Linux系统的更多可能性。&lt;/p>
+&lt;p>在本周日的讲座中，我们将重点关注Linux的入门使用，通过这次讲座，我们希望大家可以对以下内容有所了解：&lt;/p>
+&lt;ul>
+&lt;li>基于Command Line / SSH操作文件与文件夹&lt;/li>
+&lt;li>Linux装机必备软件的使用&lt;/li>
+&lt;li>在高性能集群上安装软件&lt;/li>
+&lt;li>脚本与配置文件的编写与修改&lt;/li>
+&lt;li>查看计算机的状态与在机器间传输文件&lt;/li>
+&lt;li>网上冲浪与建站&lt;/li>
+&lt;/ul>
+&lt;p>讲座期间，我们会为大家准备Linux上机操作环境，也欢迎对Linux感兴趣的同学尝试安装WSL等Linux环境，为确保大家的学习体验，我们的团队将全程协助大家。&lt;em>欢迎来玩&lt;/em>～&lt;/p>
+&lt;h2 id="工作坊信息">工作坊信息&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>时间：2021年5月9日 15:00-17:00&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>地点：第二教学楼 205&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>主讲人：关浩（计算机科学工程系博士生）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="cra-talk-3-introduction-to-scientific-computation-getting-started-with-linux">CRA Talk #3 Introduction to Scientific Computation (Getting Started with Linux)&lt;/h1>
+&lt;p>Starting this Sunday, the Computing Research Association and the Supercomputing Club will join forces with the Center for Scientific and Engineering Computing to present a series of courses on the fundamentals of scientific computing to help you get a better introduction to scientific computing, as well as to explore the more possibilities of Linux systems!&lt;/p>
+&lt;p>In this Sunday&amp;rsquo;s lecture, we will focus on the introductory use of Linux. Through this lecture, we hope that you will gain an understanding of the following.&lt;/p>
+&lt;ul>
+&lt;li>Command Line / SSH based manipulation of files and folders&lt;/li>
+&lt;li>Use of Linux installation essentials&lt;/li>
+&lt;li>Installing software on a high-performance cluster&lt;/li>
+&lt;li>Writing and modifying scripts and configuration files&lt;/li>
+&lt;li>Checking the status of computers and transferring files between machines&lt;/li>
+&lt;li>Surfing the web and building websites&lt;/li>
+&lt;/ul>
+&lt;p>During the seminar, we will prepare a Linux operating environment for you, and students who are interested in Linux are also welcome to try to install WSL and other Linux environments, and our team will assist you throughout to ensure your learning experience.&lt;/p>
+&lt;h2 id="workshop-info">Workshop Info&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Time: 2021.5.9 15:00-17:00&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Location: Teaching Building 2-205&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>POC: Hao Guan（PhD students in Computer Science）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;p>Workshop-Website: &lt;a class="link" href="https://mirrors.sustech.edu.cn/site/introduction-to-scientific-computation/" target="_blank" rel="noopener"
+>https://mirrors.sustech.edu.cn/site/introduction-to-scientific-computation/&lt;/a>&lt;/p></description></item><item><title>CRATalk #2 南科wiki：提供知识，记录轶事</title><link>https://blog.sustcra.com/p/cratalk-2-sustc-wiki/</link><pubDate>Tue, 12 Jan 2021 16:00:00 +0800</pubDate><guid>https://blog.sustcra.com/p/cratalk-2-sustc-wiki/</guid><description>&lt;img src="https://blog.sustcra.com/p/cratalk-2-sustc-wiki/cover.png" alt="Featured image of post CRATalk #2 南科wiki：提供知识，记录轶事" />&lt;h1 id="cratalk-2-南科wiki提供知识记录轶事-providing-knowledge-and-recording-anecdotes">CRATalk #2 南科wiki：提供知识，记录轶事 Providing knowledge and recording anecdotes&lt;/h1>
+&lt;p>如维基百科的创始人吉米·威尔士所言，维基百科的使命是为每个人提供免费的知识。南科wiki的创始人行到水穷处更说，南科wiki不仅希望为读者提供知识，更希望为同学们提供集合信息与记录学校轶事的平台。&lt;/p>
+&lt;p>As Jimmy Wales, the founder of Wikipedia, said, the mission of Wikipedia is to provide free knowledge to everyone. 行到水穷处(Xing Dao Shui Qiong Chu), the founder of SUSTC wiki, said that SUSTC wiki not only wants to provide knowledge to readers, but also wants to provide a platform for students to gather information and record school anecdotes.&lt;/p>
+&lt;p>南科wiki的愿景是什么，如何编写一篇严谨而吸引读者的wiki条目？本次CRA Talk，我们邀请了南科wiki的创始同学行到水穷处，一起讨论南科wiki的过去与可能的未来。&lt;/p>
+&lt;p>What is the vision of the SUSTC wiki and how to write a rigorous and engaging wiki entry for readers? In this CRA Talk, we invited the founder of SUSTC wiki for discussing the past and possible future of SUSTC wiki together.&lt;/p>
+&lt;p>（由于他即将毕业，本次CRATalk同时也将是南科wiki的招新宣讲。）&lt;/p>
+&lt;p>(Since he will be graduating soon, this CRATalk will also be a recruitment talk for the SUSTC wiki.)&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/p/cratalk-2-sustc-wiki/homepage.png"
+width="1866"
+height="1534"
+srcset="https://blog.sustcra.com/p/cratalk-2-sustc-wiki/homepage_hua15c1563fb2af1c80611a84c23d58bb0_623732_480x0_resize_box_3.png 480w, https://blog.sustcra.com/p/cratalk-2-sustc-wiki/homepage_hua15c1563fb2af1c80611a84c23d58bb0_623732_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="南科wiki主页"
+class="gallery-image"
+data-flex-grow="121"
+data-flex-basis="291px"
+>&lt;/p>
+&lt;h2 id="workshop大纲-toc">Workshop大纲 TOC&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>南科wiki的愿景&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>wiki，维基百科与南科 wiki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>南科 wiki 的发展历程&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>有趣的条目&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>如何撰写一篇有吸引读者而又不失严谨性的条目&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The vision of SUSTC wiki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>wiki, Wikipedia and SUSTC wiki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The development of the SUSTC wiki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Interesting articles&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>How to write an article that appeals to readers without losing rigor&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="活动信息-event-information">活动信息 Event Information&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>主讲人：陈宇恒 (行到水穷处)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>时间：&lt;strong>2021/01/17&lt;/strong> 19:00 UTC +08:00&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>活动形式：线下 + 线上会议&lt;/p>
+&lt;ul>
+&lt;li>地点：一教303&lt;/li>
+&lt;li>腾讯会议 ID：821 963 124&lt;/li>
+&lt;li>会议密码：172186&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Speaker：Yuheng Chen (行到水穷处)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Time: &lt;strong>2021/01/17&lt;/strong> 19:00 UTC +08:00&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Event Format: Offline Pre + Online Meeting&lt;/p>
+&lt;ul>
+&lt;li>Venue: Teaching Building 1-303&lt;/li>
+&lt;li>Tencent Meeting ID: 821 963 124&lt;/li>
+&lt;li>Conference Password: 172186&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="参考-reference">参考 Reference&lt;/h2>
+&lt;ul>
+&lt;li>南科wiki主页/SUSTC wiki homepage: &lt;a class="link" href="https://sustc.wiki/" target="_blank" rel="noopener"
+>https://sustc.wiki/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>CRAtalk #1 SUSTech Mirrors Misc</title><link>https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/</link><pubDate>Wed, 04 Nov 2020 16:00:00 +0800</pubDate><guid>https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/</guid><description>&lt;img src="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/cover.jpg" alt="Featured image of post CRAtalk #1 SUSTech Mirrors Misc" />&lt;p>&lt;em>The English version is in the second part of the article.&lt;/em>&lt;/p>
+&lt;h2 id="南方科技大学开源软件镜像站现已开放给校内各位师生使用">南方科技大学开源软件镜像站现已开放给校内各位师生使用&lt;/h2>
+&lt;p>由科学计算工程中心创办，计算机研究协会维护的南方科技大学开源软件镜像站现已正式开放给校内各位师生使用！您可以通过&lt;strong>域名 &lt;a class="link" href="http://mirrors.sustech.edu.cn" target="_blank" rel="noopener"
+>mirrors.sustech.edu.cn&lt;/a> (http/https) 或IP 172.18.6.198&lt;/strong> 访问镜像站。镜像站目前提供Ubuntu, Debian, CentOS, Pypi, Anaconda等知名Linux发行版和开源软件的下载镜像。（完整镜像列表请见表格）&lt;/p>
+&lt;p>&lt;img src="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/screenshot.png"
+width="2086"
+height="1346"
+srcset="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/screenshot_hu21e41b53bb0b3d8035b7fd8eae0ef215_496692_480x0_resize_box_3.png 480w, https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/screenshot_hu21e41b53bb0b3d8035b7fd8eae0ef215_496692_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="南方科技大学开源软件镜像站"
+class="gallery-image"
+data-flex-grow="154"
+data-flex-basis="371px"
+>&lt;/p>
+&lt;h3 id="有关公网访问和新增镜像的调查问卷">有关公网访问和新增镜像的调查问卷&lt;/h3>
+&lt;p>目前，镜像站仅允许来自校园网的访问。&lt;strong>如果您希望在校外通过公网访问镜像，请填写下方的调查问卷，相关结果将被反馈给科学与工程计算中心和信息中心，用于争取开放镜像站的公网访问。&lt;/strong>&lt;/p>
+&lt;p>您也可以通过填写调查问卷问卷或在 &lt;a class="link" href="https://github.com/sustech-cra/issues" target="_blank" rel="noopener"
+>https://github.com/sustech-cra/issues&lt;/a> 新建Issue的方式建议南科大镜像站为某个开源项目镜像。&lt;/p>
+&lt;p>调查问卷：&lt;a class="link" href="https://wj.qq.com/s2/7480461/a2b2/" target="_blank" rel="noopener"
+>https://wj.qq.com/s2/7480461/a2b2/&lt;/a>&lt;/p>
+&lt;h2 id="cratalk-1-sustech-mirrors-misc">CRAtalk #1 SUSTech Mirrors Misc&lt;/h2>
+&lt;p>&lt;img src="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/poster.jpg"
+width="2000"
+height="3000"
+srcset="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/poster_hub3dd0a35de6211b7e75922145b6c5386_1106783_480x0_resize_q75_box.jpg 480w, https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/poster_hub3dd0a35de6211b7e75922145b6c5386_1106783_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="活动海报"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+>&lt;/p>
+&lt;p>如何搭建一个开源软件镜像站？镜像站中的软件等内容又是如何保持同步的？南科大的开源软件镜像站又有什么不为人知的历史？在本周周日，我们将会举办一次有关镜像站的Workshop，介绍南科大开源镜像站的相关信息，并向大家简要介绍如何更换为校内镜像源以加速开源软件下载和更新，欢迎一起来玩！&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>时间：2020年11月8日19:00-20:00&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>地点：一教 510&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>主讲人：张淮化清，王子勤，樊青远&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>腾讯会议：256 110 539 密码：172186&lt;/p>
+&lt;p>&lt;em>链接：（会议模式）https://meeting.tencent.com/s/SwcQ0RNRtRZy （直播模式）https://meeting.tencent.com/l/Lg2VvYDb0Jh3&lt;/em>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="附件南科大镜像站现有软件镜像列表">附件：南科大镜像站现有软件镜像列表&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">名称&lt;/th>
+&lt;th style="text-align:center">介绍&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">CRAN&lt;/td>
+&lt;td style="text-align:center">R 语言的可执行文件、源代码和说明文件，也收录了各种用户撰写的软件包&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">CTAN&lt;/td>
+&lt;td style="text-align:center">TeX 的各种发行版、软件包和文档&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">alpine&lt;/td>
+&lt;td style="text-align:center">Alpine Linux 的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">anaconda&lt;/td>
+&lt;td style="text-align:center">用于科学计算的 Python 发行版&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">apache&lt;/td>
+&lt;td style="text-align:center">Apache 基金会赞助的各个项目&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">archlinux&lt;/td>
+&lt;td style="text-align:center">Arch Linux 的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">archlinuxcn&lt;/td>
+&lt;td style="text-align:center">由 Arch Linux 中文社区驱动的非官方用户仓库，包含中文用户常用软件、工具、字体/美化包等&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">armbian&lt;/td>
+&lt;td style="text-align:center">Armbian（面向 ARM 单板机的发行版）的软件源&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">centos&lt;/td>
+&lt;td style="text-align:center">CentOS 的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">debian-nonfree&lt;/td>
+&lt;td style="text-align:center">Debian Linux 的非自由软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">debian-security&lt;/td>
+&lt;td style="text-align:center">Debian Linux 的安全更新&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">debian&lt;/td>
+&lt;td style="text-align:center">Debian Linux 的官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">deepin-cd&lt;/td>
+&lt;td style="text-align:center">Deepin Linux 的安装镜像&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">deepin&lt;/td>
+&lt;td style="text-align:center">Deepin Linux 的官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">docker-ce&lt;/td>
+&lt;td style="text-align:center">Docker Community Edition 的安装包&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">epel&lt;/td>
+&lt;td style="text-align:center">企业版 Linux 附加软件包&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">fedora-altarch&lt;/td>
+&lt;td style="text-align:center">Fedora Linux 额外平台的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">fedora&lt;/td>
+&lt;td style="text-align:center">Fedora Linux 的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">homebrew-bottles&lt;/td>
+&lt;td style="text-align:center">homebrew-bottles&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">homebrew&lt;/td>
+&lt;td style="text-align:center">Homebrew/Linuxbrew 的 taps（软件包描述文件 Git 仓库）&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">kali-images&lt;/td>
+&lt;td style="text-align:center">Kali Linux 的安装镜像&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">kali&lt;/td>
+&lt;td style="text-align:center">Kali Linux 的官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">manjaro&lt;/td>
+&lt;td style="text-align:center">Manjaro Linux 的官方软件源&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">opensuse&lt;/td>
+&lt;td style="text-align:center">openSUSE 的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">openwrt&lt;/td>
+&lt;td style="text-align:center">OpenWrt/LEDE 软件包镜像源&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">pypi&lt;/td>
+&lt;td style="text-align:center">Python 软件包索引源&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">raspberrypi&lt;/td>
+&lt;td style="text-align:center">一些专为树莓派提供的 Debian 软件包&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">raspbian&lt;/td>
+&lt;td style="text-align:center">为树莓派编译的 Debian 系统软件源&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ros&lt;/td>
+&lt;td style="text-align:center">ROS提供一系列程序库和工具以帮助软件开发者创建机器人应用软件&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ros2&lt;/td>
+&lt;td style="text-align:center">ROS (Robot Operating System) 2.0 版本&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ubuntu-ports&lt;/td>
+&lt;td style="text-align:center">armhf, arm64 以及 powerpc 等平台的 Ubuntu 软件仓库&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ubuntu-releases&lt;/td>
+&lt;td style="text-align:center">包含近几年发行的 Ubuntu 的镜像&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ubuntu&lt;/td>
+&lt;td style="text-align:center">流行的 Linux 发行版 Ubuntu 的安装镜像和官方软件包仓库&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="sustech-open-source-software-mirrors-starts-to-serve-for-all-sustech-members">SUSTech Open Source Software Mirrors Starts to Serve for All SUSTech Members!&lt;/h1>
+&lt;p>&lt;img src="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/screenshot.png"
+width="2086"
+height="1346"
+srcset="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/screenshot_hu21e41b53bb0b3d8035b7fd8eae0ef215_496692_480x0_resize_box_3.png 480w, https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/screenshot_hu21e41b53bb0b3d8035b7fd8eae0ef215_496692_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="SUSTech Open Source Mirror"
+class="gallery-image"
+data-flex-grow="154"
+data-flex-basis="371px"
+>&lt;/p>
+&lt;p>Founded by the Center for Science and Computing Engineering(), Computer Research Association to maintain the Southern University of Science and Technology Open Source Software Mirror Station is now officially open to all students and faculty on campus to use! You can access the mirror site through the &lt;strong>domain &lt;a class="link" href="http://mirrors.sustech.edu.cn" target="_blank" rel="noopener"
+>mirrors.sustech.edu.cn&lt;/a> (http/https) or IP 172.18.6.198&lt;/strong>. The mirror site currently provides downloadable images of well-known Linux distributions and open source software such as Ubuntu, Debian, CentOS, Pypi, Anaconda, etc.&lt;/p>
+&lt;h3 id="survey-on-public-ip-access-and-mirror-requests">Survey on Public IP Access and Mirror Requests&lt;/h3>
+&lt;p>Currently, the mirror site is only accessible from the campus network. **If you wish to access the mirror from off-campus via the public network, please fill out the questionnaire below and the results will be sent back to the Science and Engineering Computing Center and Information Center for use in the effort to open up public access to the mirror site. **&lt;/p>
+&lt;p>You can also suggest that the SUSTech mirror site mirror an additional open source project by filling out the survey questionnaire or by creating a new Issue at &lt;a class="link" href="https://github.com/sustech-cra/issues" target="_blank" rel="noopener"
+>https://github.com/sustech-cra/issues&lt;/a>.&lt;/p>
+&lt;p>Survey questionnaire: &lt;a class="link" href="https://wj.qq.com/s2/7480461/a2b2/" target="_blank" rel="noopener"
+>https://wj.qq.com/s2/7480461/a2b2/&lt;/a>&lt;/p>
+&lt;h2 id="cratalk-1-sustech-mirrors-misc-1">CRAtalk #1 SUSTech Mirrors Misc&lt;/h2>
+&lt;p>&lt;img src="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/poster.jpg"
+width="2000"
+height="3000"
+srcset="https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/poster_hub3dd0a35de6211b7e75922145b6c5386_1106783_480x0_resize_q75_box.jpg 480w, https://blog.sustcra.com/p/cratalk-1-sustech-mirrors-misc/poster_hub3dd0a35de6211b7e75922145b6c5386_1106783_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+>&lt;/p>
+&lt;p>How to build an open source software mirror? How does the software and other content in the mirror site stay in sync? What&amp;rsquo;s the hidden history of SUSTech&amp;rsquo;s open source software mirror? On Sunday of this week, we&amp;rsquo;ll be hosting a workshop on mirror sites, introducing information about open source mirror sites at SUSTech and briefly explaining how to replace the software source with on-campus mirror sources to speed up open source software downloads and updates, everyone is welcomed!&lt;/p>
+&lt;ul>
+&lt;li>Time: 2020-11-08 19:00-21:00&lt;/li>
+&lt;li>Location: Room 510, Lecture Hall 1&lt;/li>
+&lt;li>POC: Huaqing.Zhanghuai Ziqin.Wang Qingyuan.Fan
+&lt;ul>
+&lt;li>Tencent Meeting: &lt;a class="link" href="https://meeting.tencent.com/s/SwcQ0RNRtRZy" target="_blank" rel="noopener"
+>https://meeting.tencent.com/s/SwcQ0RNRtRZy&lt;/a> Password: 172186&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="notes-and-discussion-of-this-cratalk">Notes and discussion of this CRAtalk&lt;/h2>
+&lt;p>Please download it from &lt;a class="link" href="https://c.cra.moe/" target="_blank" rel="noopener"
+>CRA community&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://c.cra.moe/t/topic/12/3" target="_blank" rel="noopener"
+>https://c.cra.moe/t/topic/12/3&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
